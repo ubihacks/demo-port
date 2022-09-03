@@ -1,7 +1,8 @@
 # Astro lightning fast portfoli and blog post template  
 
-<a href="https://app.netlify.com/start/deploy?repository=[https://github.com/netlify-templates/next-netlify-starter](https://github.com/ubihacks/my-portfolio)"><img src="https://www.netlify.com/img/deploy/button.svg"></a>
 
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ubihacks/my-portfolio)
 
 Features:
 
