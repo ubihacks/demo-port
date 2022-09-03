@@ -1,6 +1,6 @@
-# Astro Starter Kit: Blog
+# Astro lightning fast portfoli and blog post template  
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/next-netlify-starter"><img src="https://www.netlify.com/img/deploy/button.svg"></a>
+<a href="https://app.netlify.com/start/deploy?repository=[https://github.com/netlify-templates/next-netlify-starter](https://github.com/ubihacks/my-portfolio)"><img src="https://www.netlify.com/img/deploy/button.svg"></a>
 
 
 Features:
